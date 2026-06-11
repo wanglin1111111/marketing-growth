@@ -1,4 +1,4 @@
----
+﻿---
 name: marketing-growth
 version: 1.0.0
 author: wanglin1111111
@@ -13,7 +13,7 @@ description: |
 ## Skill: b2b-marketing-playbook
 
 ---
-name: b2b-marketing-playbook
+name: marketing-growth
 description: |
   Complete B2B marketing pipeline combining LinkedIn content, cold email sequences, and webinar funnels. Designed for SaaS founders doing $0–$1M ARR who need predictable lead generation.
 ---
